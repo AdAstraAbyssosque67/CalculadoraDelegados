@@ -49,7 +49,7 @@ El uso de delegados permite cambiar din√°micamente un metodo durante la ejecuci√
 <img width="1366" height="768" alt="Captura de pantalla (28)" src="https://github.com/user-attachments/assets/d4d2b174-6a09-4a10-80a4-c89b2158a3d6" />
 
 
-##bSalida:
+## Salida:
 
 <img width="1366" height="768" alt="Captura de pantalla (29)" src="https://github.com/user-attachments/assets/700e8032-32f1-4083-9cfc-309ff09cafcc" />
 
