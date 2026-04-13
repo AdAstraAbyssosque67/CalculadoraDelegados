@@ -11,9 +11,10 @@ Un delegado en C# es un tipo que permite referenciar métodos y ejecutarlos din�
 Funciona como una variable que puede apuntar a diferentes métodos que tengan la misma estructura de parámetros y tipo de retorno.
 
 ## Ejemplo:
+
 ```csharp
 public delegate int Operacion(int a, int b);
-``
+```
 
 ## Uso de Delegados 
 El uso de delegados permite cambiar dinámicamente un metodo durante la ejecución también nor permite
@@ -30,6 +31,7 @@ El uso de delegados permite cambiar dinámicamente un metodo durante la ejecuci�
 - Asignar dinámicamente el método correspondiente al delegado.
 
 # Ejemplo de Uso
+
 ## Suma
 
 ## Entrada:
